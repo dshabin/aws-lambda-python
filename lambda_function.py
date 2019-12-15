@@ -1,5 +1,5 @@
 import json
-import requests
+import PIL
 
 def lambda_handler(event, context):
 
